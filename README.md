@@ -18,4 +18,4 @@ Some Trivia about me:
 <img align="left" alt="C" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="Csharp" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Cplusplus" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Solidity" width="26px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" />
+<img align="left" alt="Solidity" height="26px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" />
