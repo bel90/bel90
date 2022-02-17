@@ -52,9 +52,10 @@ PHP, Solidity, Smart Contracts, React, Node.js, npm, Docker, Raspberry Pi, Pytho
 <img align="left" alt="Python" height="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <br><br>
 
-
-**Experienced in working with all common operating systems**<br>
+<details>
+<summary>**Experienced in working with all common operating systems**</summary>
 Windows, Linux (Ubuntu) and MacOS
+</details>
 <br>
 <img align="left" alt="Windows" height="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 <img align="left" alt="Linux" height="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -64,6 +65,6 @@ Windows, Linux (Ubuntu) and MacOS
 
 ### GitHub Stats
 
-[![Belinda's GitHub stats](https://github-readme-stats.vercel.app/api?username=bel90&count_private=true&hide=stars,issues,contribs&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Belinda's GitHub stats](https://github-readme-stats.vercel.app/api?username=bel90&count_private=true&hide=stars,issues,contribs&show_icons=true&theme=merko&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bel90&layout=compact&count_private=true&exclude_repo=nephele,tmp_ppsz,SocialNetwork&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bel90&layout=compact&count_private=true&exclude_repo=nephele,tmp_ppsz,SocialNetwork&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
