@@ -53,14 +53,16 @@ PHP, Solidity, Smart Contracts, React, Node.js, npm, Docker, Raspberry Pi, Pytho
 <br><br>
 
 <details>
-<summary>**Experienced in working with all common operating systems**</summary>
-Windows, Linux (Ubuntu) and MacOS
-</details>
+<summary><b>Experienced in working with all common operating systems</b>
 <br>
 <img align="left" alt="Windows" height="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 <img align="left" alt="Linux" height="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Ubuntu" height="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
 <img align="left" alt="Apple" height="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
+</summary>
+Windows, Linux (Ubuntu) and MacOS
+</details>
+
 <br><br>
 
 ### GitHub Stats
