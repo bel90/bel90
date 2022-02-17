@@ -101,7 +101,7 @@ Windows, Linux (Ubuntu) and MacOS
 <img align="left" alt="CubieFallDown" height="60px" style="padding-right:10px;" src="https://play-lh.googleusercontent.com/CK9-lgf2zVY5mPy0J6Wz0zD_AgA29KYC-qilObmrCIKyScsQUij0V-aAasMA-I7x7Yg=s180-rw">
 </a>
 
-<br>
+<br><br>
 
 #### Games on Apple App Store
 
@@ -113,7 +113,7 @@ Windows, Linux (Ubuntu) and MacOS
 <img align="left" alt="StampFense" height="60px" style="padding-right:10px;" src="https://play-lh.googleusercontent.com/qxofhWBL7A1p9V61HIZwZjUpktsol5hlWfUQos-l7TzSnWdfOBqWvXLOrRO4DVANz5VS=s180-rw">
 </a>
 
-<br>
+<br><br>
 
 ### GitHub Stats
 
