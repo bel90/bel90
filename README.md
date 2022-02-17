@@ -110,10 +110,8 @@ Windows, Linux (Ubuntu) and MacOS
 </a>
 
 <a href="https://apps.apple.com/us/app/stampfense-tap-tower-defense/id1524809375" target="_blank">
-<img align="left" alt="StampFense" height="60px" style="padding-right:10px;" src="https://play-lh.googleusercontent.com/qxofhWBL7A1p9V61HIZwZjUpktsol5hlWfUQos-l7TzSnWdfOBqWvXLOrRO4DVANz5VS=s180-rw">
+<img alt="StampFense" height="60px" style="padding-right:10px;" src="https://play-lh.googleusercontent.com/qxofhWBL7A1p9V61HIZwZjUpktsol5hlWfUQos-l7TzSnWdfOBqWvXLOrRO4DVANz5VS=s180-rw">
 </a>
-
-<br><br>
 
 #### Games on itch.io
 
