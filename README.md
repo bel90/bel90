@@ -64,4 +64,6 @@ Windows, Linux (Ubuntu) and MacOS
 
 ### GitHub Stats
 
-[![Belinda's GitHub stats](https://github-readme-stats.vercel.app/api?username=bel90)](https://github.com/anuraghazra/github-readme-stats)
+[![Belinda's GitHub stats](https://github-readme-stats.vercel.app/api?username=bel90&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bel90&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
