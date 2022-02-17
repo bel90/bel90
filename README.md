@@ -66,4 +66,4 @@ Windows, Linux (Ubuntu) and MacOS
 
 [![Belinda's GitHub stats](https://github-readme-stats.vercel.app/api?username=bel90&count_private=true&hide=stars,issues,contribs&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bel90&layout=compact&count_private=true&hide=Java,PHP&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bel90&layout=compact&count_private=true&exclude_repo=nephele,tmp_ppsz,SocialNetwork&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
