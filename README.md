@@ -81,8 +81,24 @@ Windows, Linux (Ubuntu) and MacOS
 
 <br>
 
+### Released Games 
+
+#### Games on Google Play Store
+
+<a href="https://play.google.com/store/apps/details?id=com.TesiGames.IslandChopper" target="_blank">
+<img align="left" alt="IslandChooper" height="60px" style="padding-right:10px;" src="https://play-lh.googleusercontent.com/2Y4xRwTLor8ycLCi9PTI4JJJY2tsXEodXNvsicIFKL3sRAiqDsEM-vuB55o7q1eCZ4Q=s180-rw">
+</a>
+
+<a href="https://play.google.com/store/apps/details?id=com.TesiGames.PokerTowerDefense" target="_blank">
+<img align="left" alt="IslandChooper" height="60px" style="padding-right:10px;" src="https://play-lh.googleusercontent.com/qpn0ftyUJREToOiF1cwiahUAHmtxUeQnFAmFQ3CXKM6tuDgUhiqFaEJ-48l3k3k8aT0=s180-rw">
+</a>
+
+<a href="https://play.google.com/store/apps/details?id=com.TesiGames.StampFense" target="_blank">
+<img align="left" alt="IslandChooper" height="60px" style="padding-right:10px;" src="https://play-lh.googleusercontent.com/qxofhWBL7A1p9V61HIZwZjUpktsol5hlWfUQos-l7TzSnWdfOBqWvXLOrRO4DVANz5VS=s180-rw">
+</a>
+
 ### GitHub Stats
 
-[![Belinda's GitHub stats](https://github-readme-stats.vercel.app/api?username=bel90&count_private=true&hide=stars,issues,contribs&show_icons=true&theme=merko&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Belinda's GitHub stats](https://github-readme-stats.vercel.app/api?username=bel90&count_private=true&hide=stars,issues,contribs&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bel90&layout=compact&count_private=true&exclude_repo=nephele,tmp_ppsz,SocialNetwork&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bel90&layout=compact&count_private=true&exclude_repo=nephele,tmp_ppsz,SocialNetwork&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
