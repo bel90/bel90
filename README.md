@@ -115,6 +115,32 @@ Windows, Linux (Ubuntu) and MacOS
 
 <br><br>
 
+#### Games on itch.io
+
+##### Game Jam Games on itch.io
+
+<details>
+<summary><b>1 week 1 hour game jam challenge</b>
+<br>
+Together with some friends I did a "1 week 1 hour game jam challenge". Everyone of us created for one week every day a small game in one hour with a given topic.
+</summary>
+<br><br>
+<iframe frameborder="0" src="https://itch.io/embed/1064365" width="552" height="167"><a href="https://belindatesigames.itch.io/1-week-1-hour-game-jams-dig-deeper">1 week 1 hour game jams - Dig Deeper by BelindaTesiGames</a></iframe>
+<br>
+<iframe frameborder="0" src="https://itch.io/embed/1065161" width="552" height="167"><a href="https://belindatesigames.itch.io/1-week-1-hour-game-jams-reflection">1 week 1 hour game jams - Reflection by BelindaTesiGames</a></iframe>
+<br>
+<iframe frameborder="0" src="https://itch.io/embed/1066535" width="552" height="167"><a href="https://belindatesigames.itch.io/1-week-1-hour-game-jams-survival">1 week 1 hour game jams - Survival by BelindaTesiGames</a></iframe>
+<br>
+<iframe frameborder="0" src="https://itch.io/embed/1067733" width="552" height="167"><a href="https://belindatesigames.itch.io/1-week-1-hour-game-jams-powersource">1 week 1 hour game jams - You are the Power Source by BelindaTesiGames</a></iframe>
+<br>
+<iframe frameborder="0" src="https://itch.io/embed/1069005" width="552" height="167"><a href="https://belindatesigames.itch.io/1-week-1-hour-game-jams-no-violence">1 week 1 hour game jams - No Violence by BelindaTesiGames</a></iframe>
+<br>
+<iframe frameborder="0" src="https://itch.io/embed/1071616" width="552" height="167"><a href="https://belindatesigames.itch.io/1-week-1-hour-game-jams-machines">1 week 1 hour game jams - Machines by BelindaTesiGames</a></iframe>
+<br>
+<iframe frameborder="0" src="https://itch.io/embed/1073402" width="552" height="167"><a href="https://belindatesigames.itch.io/1-week-1-hour-game-jams-beginning-of-time">1 week 1 hour game jams - Beginning of Time by BelindaTesiGames</a></iframe>
+<br>
+</details>
+
 ### GitHub Stats
 
 [![Belinda's GitHub stats](https://github-readme-stats.vercel.app/api?username=bel90&count_private=true&hide=stars,issues,contribs&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
