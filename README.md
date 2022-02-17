@@ -122,10 +122,9 @@ Windows, Linux (Ubuntu) and MacOS
 </a>
 
 <a href="https://belindatesigames.itch.io/poker-tower-defense" target="_blank">
-<img align="left" style="padding-right:10px;" alt="StampFense" height="167px" src="https://img.itch.zone/aW1nLzI3Mjc0MDkucG5n/315x250%23c/6ig%2B8m.png" />
+<img alt="StampFense" height="167px" src="https://img.itch.zone/aW1nLzI3Mjc0MDkucG5n/315x250%23c/6ig%2B8m.png" />
 </a>
 
----
 
 ##### Game Jam Games on itch.io
 
