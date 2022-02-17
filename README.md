@@ -62,4 +62,6 @@ Windows, Linux (Ubuntu) and MacOS
 <img align="left" alt="Apple" height="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
 <br><br>
 
+### GitHub Stats
 
+[![Belinda's GitHub stats](https://github-readme-stats.vercel.app/api?username=bel90)](https://github.com/anuraghazra/github-readme-stats)
