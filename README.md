@@ -13,8 +13,8 @@ Some Trivia about me:
 
 ### Languages and Tools:
 
-**Over 3 years of experience:**<br>
-C#, Unity, Visual Studio, Git, Cross-Platform Development, Inkscape, Trello
+<details>
+<summary><b>Over 3 years of experience:</b>
 <br>
 <img align="left" alt="Csharp" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Unity" height="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
@@ -22,10 +22,15 @@ C#, Unity, Visual Studio, Git, Cross-Platform Development, Inkscape, Trello
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Inkscape" height="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" />
 <img align="left" alt="Trello" height="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
-<br><br>
+</summary>
+<br>
+C#, Unity, Visual Studio, Git, Cross-Platform Development, Inkscape, Trello
+</details>
 
-**1 - 3 years of experience:**<br>
-C++, SQL, Javascript, Qt, QML, Java, C, LaTex, UML, HTML, CSS
+<br>
+
+<details>
+<summary><b>1 - 3 years of experience:</b>
 <br>
 <img align="left" alt="Cplusplus" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="SQL" height="26px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" />
@@ -33,14 +38,19 @@ C++, SQL, Javascript, Qt, QML, Java, C, LaTex, UML, HTML, CSS
 <img align="left" alt="Qt" height="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
 <img align="left" alt="Java" height="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="C" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt="Latex" height="26px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/800px-LaTeX_logo.svg.png" />
+<img align="left" alt="Latex" height="20px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/800px-LaTeX_logo.svg.png" />
 <img align="left" alt="UML" height="26px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/400px-UML_logo.svg.png" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<br><br>
+</summary>
+<br>
+C++, SQL, Javascript, Qt, QML, Java, C, LaTex, UML, HTML, CSS
+</details>
 
-**Up to 1 year of experience:**<br>
-PHP, Solidity, Smart Contracts, React, Node.js, npm, Docker, Raspberry Pi, Python
+<br>
+
+<details>
+<summary><b>Up to 1 year of experience:</b>
 <br>
 <img align="left" alt="PHP" height="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 <img align="left" alt="Solidity" height="26px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" />
@@ -50,7 +60,12 @@ PHP, Solidity, Smart Contracts, React, Node.js, npm, Docker, Raspberry Pi, Pytho
 <img align="left" alt="Docker" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align="left" alt="RaspberryPi" height="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
 <img align="left" alt="Python" height="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<br><br>
+</summary>
+<br>
+PHP, Solidity, Smart Contracts, React, Node.js, npm, Docker, Raspberry Pi, Python
+</details>
+
+<br>
 
 <details>
 <summary><b>Experienced in working with all common operating systems</b>
@@ -60,10 +75,11 @@ PHP, Solidity, Smart Contracts, React, Node.js, npm, Docker, Raspberry Pi, Pytho
 <img align="left" alt="Ubuntu" height="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
 <img align="left" alt="Apple" height="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
 </summary>
+<br>
 Windows, Linux (Ubuntu) and MacOS
 </details>
 
-<br><br>
+<br>
 
 ### GitHub Stats
 
