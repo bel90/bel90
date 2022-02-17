@@ -129,7 +129,7 @@ Together with some friends I did a "1 week 1 hour game jam challenge". Everyone 
 
 <div>
 <a href="https://belindatesigames.itch.io/1-week-1-hour-game-jams-dig-deeper" target="_blank">
-<img alt="DigDeeper" height="167px" src="https://img.itch.zone/aW1nLzYwOTM0MTEucG5n/315x250%23c/6vhg%2BD.png" />
+<img alt="DigDeeper" height="167px" src="https://img.itch.zone/aW1nLzYwOTM0MTEucG5n/315x250%23c/6vhg%2BD.png">
 <div position="absolute" bottom="5px" left="5px" background-color="black" color="white" padding-left="5px" padding-right="5px">
 <p>Dig Deeper</p>
 </div>
