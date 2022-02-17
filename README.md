@@ -90,15 +90,33 @@ Windows, Linux (Ubuntu) and MacOS
 </a>
 
 <a href="https://play.google.com/store/apps/details?id=com.TesiGames.PokerTowerDefense" target="_blank">
-<img align="left" alt="IslandChooper" height="60px" style="padding-right:10px;" src="https://play-lh.googleusercontent.com/qpn0ftyUJREToOiF1cwiahUAHmtxUeQnFAmFQ3CXKM6tuDgUhiqFaEJ-48l3k3k8aT0=s180-rw">
+<img align="left" alt="PokerTowerDefense" height="60px" style="padding-right:10px;" src="https://play-lh.googleusercontent.com/qpn0ftyUJREToOiF1cwiahUAHmtxUeQnFAmFQ3CXKM6tuDgUhiqFaEJ-48l3k3k8aT0=s180-rw">
 </a>
 
 <a href="https://play.google.com/store/apps/details?id=com.TesiGames.StampFense" target="_blank">
-<img align="left" alt="IslandChooper" height="60px" style="padding-right:10px;" src="https://play-lh.googleusercontent.com/qxofhWBL7A1p9V61HIZwZjUpktsol5hlWfUQos-l7TzSnWdfOBqWvXLOrRO4DVANz5VS=s180-rw">
+<img align="left" alt="StampFense" height="60px" style="padding-right:10px;" src="https://play-lh.googleusercontent.com/qxofhWBL7A1p9V61HIZwZjUpktsol5hlWfUQos-l7TzSnWdfOBqWvXLOrRO4DVANz5VS=s180-rw">
 </a>
+
+<a href="https://play.google.com/store/apps/details?id=com.TesiGames.CubieFallDown" target="_blank">
+<img align="left" alt="CubieFallDown" height="60px" style="padding-right:10px;" src="https://play-lh.googleusercontent.com/CK9-lgf2zVY5mPy0J6Wz0zD_AgA29KYC-qilObmrCIKyScsQUij0V-aAasMA-I7x7Yg=s180-rw">
+</a>
+
+<br>
+
+#### Games on Apple App Store
+
+<a href="https://apps.apple.com/us/app/poker-td/id1487786614" target="_blank">
+<img align="left" alt="PokerTowerDefense" height="60px" style="padding-right:10px;" src="https://play-lh.googleusercontent.com/qpn0ftyUJREToOiF1cwiahUAHmtxUeQnFAmFQ3CXKM6tuDgUhiqFaEJ-48l3k3k8aT0=s180-rw">
+</a>
+
+<a href="https://apps.apple.com/us/app/stampfense-tap-tower-defense/id1524809375" target="_blank">
+<img align="left" alt="StampFense" height="60px" style="padding-right:10px;" src="https://play-lh.googleusercontent.com/qxofhWBL7A1p9V61HIZwZjUpktsol5hlWfUQos-l7TzSnWdfOBqWvXLOrRO4DVANz5VS=s180-rw">
+</a>
+
+<br>
 
 ### GitHub Stats
 
-[![Belinda's GitHub stats](https://github-readme-stats.vercel.app/api?username=bel90&count_private=true&hide=stars,issues,contribs&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Belinda's GitHub stats](https://github-readme-stats.vercel.app/api?username=bel90&count_private=true&hide=stars,issues,contribs&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bel90&layout=compact&count_private=true&exclude_repo=nephele,tmp_ppsz,SocialNetwork&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
