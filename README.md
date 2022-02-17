@@ -23,7 +23,7 @@ Some Trivia about me:
 <img align="left" alt="Inkscape" height="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" />
 <img align="left" alt="Trello" height="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
 </summary>
-<br>
+<br><br>
 C#, Unity, Visual Studio, Git, Cross-Platform Development, Inkscape, Trello
 </details>
 
@@ -43,7 +43,7 @@ C#, Unity, Visual Studio, Git, Cross-Platform Development, Inkscape, Trello
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 </summary>
-<br>
+<br><br>
 C++, SQL, Javascript, Qt, QML, Java, C, LaTex, UML, HTML, CSS
 </details>
 
@@ -61,7 +61,7 @@ C++, SQL, Javascript, Qt, QML, Java, C, LaTex, UML, HTML, CSS
 <img align="left" alt="RaspberryPi" height="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
 <img align="left" alt="Python" height="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </summary>
-<br>
+<br><br>
 PHP, Solidity, Smart Contracts, React, Node.js, npm, Docker, Raspberry Pi, Python
 </details>
 
@@ -75,7 +75,7 @@ PHP, Solidity, Smart Contracts, React, Node.js, npm, Docker, Raspberry Pi, Pytho
 <img align="left" alt="Ubuntu" height="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
 <img align="left" alt="Apple" height="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
 </summary>
-<br>
+<br><br>
 Windows, Linux (Ubuntu) and MacOS
 </details>
 
