@@ -128,15 +128,15 @@ Together with some friends I did a "1 week 1 hour game jam challenge". Everyone 
 <br>
 
 <a href="https://belindatesigames.itch.io/1-week-1-hour-game-jams-dig-deeper" target="_blank">
-<img align="left" style="padding-right:10px;" alt="DigDeeper" height="167px" src="https://img.itch.zone/aW1nLzYwOTM0MTEucG5n/315x250%23c/6vhg%2BD.png">
+<img align="left" style="padding-right:10px; padding-bottom:10px;" alt="DigDeeper" height="167px" src="https://img.itch.zone/aW1nLzYwOTM0MTEucG5n/315x250%23c/6vhg%2BD.png">
 </a>
 
 <a href="https://belindatesigames.itch.io/1-week-1-hour-game-jams-reflection" target="_blank">
-<img align="left" style="padding-right:10px;" alt="Reflection" height="167px" src="https://img.itch.zone/aW1nLzYwOTg0NzEucG5n/315x250%23c/eI1yaE.png">
+<img align="left" style="padding-right:10px; padding-bottom:10px;" alt="Reflection" height="167px" src="https://img.itch.zone/aW1nLzYwOTg0NzEucG5n/315x250%23c/eI1yaE.png">
 </a>
 
 <a href="https://belindatesigames.itch.io/1-week-1-hour-game-jams-survival" target="_blank">
-<img align="left" style="padding-right:10px;" alt="Survival" height="167px" src="https://img.itch.zone/aW1nLzYxMDczMjAucG5n/315x250%23c/jmN%2BNl.png">
+<img align="left" style="padding-right:10px; padding-bottom:10px;" alt="Survival" height="167px" src="https://img.itch.zone/aW1nLzYxMDczMjAucG5n/315x250%23c/jmN%2BNl.png">
 </a>
 
 <a href="https://belindatesigames.itch.io/1-week-1-hour-game-jams-powersource" target="_blank">
