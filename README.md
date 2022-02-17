@@ -125,9 +125,9 @@ Windows, Linux (Ubuntu) and MacOS
 <img align="left" style="padding-right:10px;" alt="StampFense" height="167px" src="https://img.itch.zone/aW1nLzI3Mjc0MDkucG5n/315x250%23c/6ig%2B8m.png" />
 </a>
 
-<br><br>
+<br><br><br><br>
 
-#### Game Jam Games on itch.io
+##### Game Jam Games on itch.io
 
 <details>
 <summary><b>1 week 1 hour game jam challenge</b>
