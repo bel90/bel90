@@ -117,17 +117,19 @@ Windows, Linux (Ubuntu) and MacOS
 
 #### Games on itch.io
 
-<div align="left" style="padding-right:10px;">
+<div>
 <a href="https://belindatesigames.itch.io/stampfense" target="_blank">
-<img alt="StampFense" height="167px" src="https://img.itch.zone/aW1nLzI5ODIwNTYucG5n/315x250%23c/wCQge7.png">
+<img align="left" style="padding-right:10px;" alt="StampFense" height="167px" src="https://img.itch.zone/aW1nLzI5ODIwNTYucG5n/315x250%23c/wCQge7.png">
+StampFense
+</img>
 <br>
 </a>
-StampFense
+
 </div>
 
-<div align="left" style="padding-right:10px;">
+<div>
 <a href="https://belindatesigames.itch.io/poker-tower-defense" target="_blank">
-<img alt="StampFense" height="167px" src="https://img.itch.zone/aW1nLzI3Mjc0MDkucG5n/315x250%23c/6ig%2B8m.png">
+<img align="left" style="padding-right:10px;" alt="StampFense" height="167px" src="https://img.itch.zone/aW1nLzI3Mjc0MDkucG5n/315x250%23c/6ig%2B8m.png">
 <br>
 </a>
 Poker Tower Defense
