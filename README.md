@@ -136,6 +136,33 @@ Together with some friends I did a "1 week 1 hour game jam challenge". Everyone 
 </a>
 </div>
 
+<div>
+<a href="https://belindatesigames.itch.io/1-week-1-hour-game-jams-reflection" target="_blank">
+<img alt="DigDeeper" height="167px" src="https://img.itch.zone/aW1nLzYwOTM0MTEucG5n/315x250%23c/6vhg%2BD.png">
+<div position="absolute" bottom="5px" left="5px" background-color="black" color="white" padding-left="5px" padding-right="5px">
+<p>Dig Deeper</p>
+</div>
+</a>
+</div>
+
+<div>
+<a href="https://belindatesigames.itch.io/1-week-1-hour-game-jams-survival" target="_blank">
+<img alt="Survival" height="167px" src="https://img.itch.zone/aW1nLzYwOTM0MTEucG5n/315x250%23c/6vhg%2BD.png">
+<div position="absolute" bottom="5px" left="5px" background-color="black" color="white" padding-left="5px" padding-right="5px">
+<p>Dig Deeper</p>
+</div>
+</a>
+</div>
+
+<div>
+<a href="https://belindatesigames.itch.io/1-week-1-hour-game-jams-powersource" target="_blank">
+<img alt="PowerSource" height="167px" src="https://img.itch.zone/aW1nLzYwOTM0MTEucG5n/315x250%23c/6vhg%2BD.png">
+<div position="absolute" bottom="5px" left="5px" background-color="black" color="white" padding-left="5px" padding-right="5px">
+<p>Dig Deeper</p>
+</div>
+</a>
+</div>
+
 <br>
 <iframe frameborder="0" src="https://itch.io/embed/1065161" width="552" height="167"><a href="https://belindatesigames.itch.io/1-week-1-hour-game-jams-reflection">1 week 1 hour game jams - Reflection by BelindaTesiGames</a></iframe>
 <br>
