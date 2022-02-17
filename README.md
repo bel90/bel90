@@ -119,6 +119,14 @@ Windows, Linux (Ubuntu) and MacOS
 
 <iframe frameborder="0" src="https://itch.io/embed/567126" width="552" height="167"><a href="https://belindatesigames.itch.io/stampfense">StampFense - A stamp tower defense game by BelindaTesiGames</a></iframe>
 
+<div align="left" style="padding-right:10px;">
+<a href="https://belindatesigames.itch.io/stampfense" target="_blank">
+<img alt="StampFense" height="60px" src="https://img.itch.zone/aW1nLzI5ODIwNTYucG5n/315x250%23c/wCQge7.png">
+<br>
+StampFense
+</a>
+</div>
+
 ##### Game Jam Games on itch.io
 
 <details>
