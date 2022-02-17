@@ -109,48 +109,12 @@ Windows, Linux (Ubuntu) and MacOS
 
 #### Games on itch.io
 
-<a href="https://belindatesigames.itch.io/stampfense" target="_blank">
-<img align="left" style="padding-right:10px;" alt="StampFense" height="167px" src="https://img.itch.zone/aW1nLzI5ODIwNTYucG5n/315x250%23c/wCQge7.png" />
+I released several games on itch.io:
+<br>
+<a href="https://belindatesigames.itch.io/" target="_blank">
+<img alt="itch.io" height="60px" src="https://cdn.worldvectorlogo.com/logos/itchio.svg" />
 </a>
 
-<a href="https://belindatesigames.itch.io/poker-tower-defense" target="_blank">
-<img alt="StampFense" height="167px" src="https://img.itch.zone/aW1nLzI3Mjc0MDkucG5n/315x250%23c/6ig%2B8m.png" />
-</a>
-
-
-##### Game Jam Games on itch.io
-
-<details>
-<summary><b>1 week 1 hour game jam challenge</b>
-<br>
-Together with some friends I did a "1 week 1 hour game jam challenge". Everyone of us created for one week every day a small game in one hour with a given topic.
-</summary>
-<br>
-
-<a href="https://belindatesigames.itch.io/1-week-1-hour-game-jams-dig-deeper" target="_blank">
-<img align="left" style="padding-right:10px; padding-bottom:10px;" alt="DigDeeper" height="167px" src="https://img.itch.zone/aW1nLzYwOTM0MTEucG5n/315x250%23c/6vhg%2BD.png">
-</a>
-
-<a href="https://belindatesigames.itch.io/1-week-1-hour-game-jams-reflection" target="_blank">
-<img align="left" style="padding-right:10px; padding-bottom:10px;" alt="Reflection" height="167px" src="https://img.itch.zone/aW1nLzYwOTg0NzEucG5n/315x250%23c/eI1yaE.png">
-</a>
-
-<a href="https://belindatesigames.itch.io/1-week-1-hour-game-jams-survival" target="_blank">
-<img align="left" style="padding-right:10px; padding-bottom:10px;" alt="Survival" height="167px" src="https://img.itch.zone/aW1nLzYxMDczMjAucG5n/315x250%23c/jmN%2BNl.png">
-</a>
-
-<a href="https://belindatesigames.itch.io/1-week-1-hour-game-jams-powersource" target="_blank">
-<img alt="PowerSource" height="167px" src="https://img.itch.zone/aW1nLzYxMTQ4OTQucG5n/315x250%23c/NQZ5Uc.png">
-</a>
-
-<br>
-<iframe frameborder="0" src="https://itch.io/embed/1069005" width="552" height="167"><a href="https://belindatesigames.itch.io/1-week-1-hour-game-jams-no-violence">1 week 1 hour game jams - No Violence by BelindaTesiGames</a></iframe>
-<br>
-<iframe frameborder="0" src="https://itch.io/embed/1071616" width="552" height="167"><a href="https://belindatesigames.itch.io/1-week-1-hour-game-jams-machines">1 week 1 hour game jams - Machines by BelindaTesiGames</a></iframe>
-<br>
-<iframe frameborder="0" src="https://itch.io/embed/1073402" width="552" height="167"><a href="https://belindatesigames.itch.io/1-week-1-hour-game-jams-beginning-of-time">1 week 1 hour game jams - Beginning of Time by BelindaTesiGames</a></iframe>
-<br>
-</details>
 
 ### GitHub Stats
 
