@@ -4,7 +4,6 @@
 
 Some Trivia about me:
 - I love learning.
-- I'm looking for a job right now.
 - I love Game Jams
 - I have several self published games on Android and iOS
 - In my freetime I like being creative and to draw and to craft
